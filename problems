@@ -1,1 +1,6 @@
-It would give an error message. Variable is undefined.
+1: It would give an error message. Variable is undefined.
+
+2: It would first print hi hi then Hello World
+
+hi hi
+Hello World
